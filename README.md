@@ -7,7 +7,7 @@
   <style>
     @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap");
 
-    * {
+  * {
       padding: 0;
       margin: 0;
       box-sizing: border-box;
@@ -304,7 +304,7 @@
         </ul>
       </nav>
 
-      <main>
+  <main>
         <article id="hero-1" style="--i: 5">
           <div class="hero-info">
             <h2>Travel the</h2>
@@ -314,7 +314,7 @@
           <div class="hero-image hi-1"></div>
         </article>
 
-        <article id="hero-2" style="--i: 4">
+  <article id="hero-2" style="--i: 4">
           <div class="hero-info">
             <h2>Savour the</h2>
             <h1>Journey</h1>
@@ -323,7 +323,7 @@
           <div class="hero-image hi-2"></div>
         </article>
 
-        <article id="hero-3" style="--i: 3">
+  <article id="hero-3" style="--i: 3">
           <div class="hero-info">
             <h2>Expand Your</h2>
             <h1>Horizons</h1>
@@ -332,7 +332,7 @@
           <div class="hero-image hi-3"></div>
         </article>
 
-        <article id="hero-4" style="--i: 2">
+  <article id="hero-4" style="--i: 2">
           <div class="hero-info">
             <h2>Explore and</h2>
             <h1>Reflect</h1>
@@ -341,7 +341,7 @@
           <div class="hero-image hi-4"></div>
         </article>
 
-        <article id="hero-5" style="--i: 1">
+  <article id="hero-5" style="--i: 1">
           <div class="hero-info">
             <h2>Change Your</h2>
             <h1>Perspective</h1>
@@ -352,7 +352,7 @@
       </main>
     </header>
 
-    <section>
+ <section>
       <ul class="level-1">
         <li>
           <h3>Destinations</h3>
